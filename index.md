@@ -11,11 +11,9 @@
 I am a doctoral student at the University of Texas at Dallas. I study human visual perception, primarily face processing. I also enjoy statistical data analysis and learning new programming skills. 
 
 <h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Research Interests </h1>
-face recognition </br>
-computational models of human cognition </br>
-wisdom-of-crowds </br>
-
-</p>
+face recognition
+computational models of human cognition
+wisdom-of-crowds
 
 <h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Education</h1>
 <b>PhD</b>, Cognition and Neuroscience, UT Dallas, present </br>
