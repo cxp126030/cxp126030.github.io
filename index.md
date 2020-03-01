@@ -7,23 +7,21 @@
 ---
 
 
-<h1 style="font-size:150%;color:ForestGreen;text-align:left; font-family:Helvetica Neue;"> Géraldine Jeckeln </h1>
-I am a doctoral student at the University of Texas at Dallas. I study human visual perception, primarily face processing. I also enjoy statistical data analysis and learning new programming skills. 
+<h1 style="font-size:150%;color:ForestGreen;text-align:left; font-family:Helvetica Neue;"> Title </h1>
+Description 
 
-<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Research Interests </h1>
-face recognition
-computational models of human cognition
-wisdom-of-crowds
+<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Subsection </h1>
+Things
 
-<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Education</h1>
-<b>PhD</b>, Cognition and Neuroscience, UT Dallas, present </br>
-<b>MS</b>, Applied Cognition and Neuroscience, UT Dallas, 2018 </br>
-<b>BA</b>, Honours Psychology, Concordia University, 2015 </br>
+<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Another subsection </h1>
+<b>PhD</b>, Place 1 </br>
+<b>MS</b>, APlace 2 2018 </br>
+<b>BA</b>, Place 3 </br>
 
 <p style="font-size:100%; font-family:Helvetica Neue;">
-<a href="mailto:geraldine.jeckeln@utdallas.edu", style= color:ForestGreen>Email</a> |
-<a href="https://scholar.google.com/citations?user=gCJpjhUAAAAJ&hl=en", style= color:ForestGreen>Google Scholar</a> |
-<a href="https://twitter.com/gerie0319", style= color:ForestGreen>Twitter</a> 
+<a href="mailto:emailaddress", style= color:ForestGreen>Email</a> |
+<a href="link to citations", style= color:ForestGreen>Google Scholar</a> |
+<a href="link to twitter", style= color:ForestGreen>Twitter</a> 
 </h1>
 
 
