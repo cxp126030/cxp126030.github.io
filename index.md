@@ -13,15 +13,8 @@ Description
 <h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Subsection </h1>
 Things
 
-<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Another subsection </h1>
-<b>PhD</b>, Place 1 </br>
-<b>MS</b>, APlace 2 2018 </br>
-<b>BA</b>, Place 3 </br>
-
-<p style="font-size:100%; font-family:Helvetica Neue;">
-<a href="mailto:emailaddress", style= color:ForestGreen>Email</a> |
-<a href="link to citations", style= color:ForestGreen>Google Scholar</a> |
-<a href="link to twitter", style= color:ForestGreen>Twitter</a> 
+<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Having trouble? </h1>
+Email connorparde@gmail.com or gjeckeln19@gmail.com with any questions or concerns.
 </h1>
 
 
