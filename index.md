@@ -13,7 +13,7 @@ _Hint: the password is located in the Methods section of your invitation_
 <h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Having trouble? </h1>
 Email connorparde@gmail.com or gjeckeln19@gmail.com with any questions or concerns.
 
-![tester](invitation_los_tres_tall.jpg?classes=float-left)
+![tester](invitation_los_tres_tall.png?classes=float-left)
 
 
 ---
