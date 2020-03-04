@@ -10,7 +10,7 @@
 <h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> You are about to enter Connor and Gérie's wedding site! </h1>
 Have the password from your invitation ready, and click the following link:
 
-[Wedding website](https://connorparde.wixsite.com/mysite)
+[Wedding website](https://connorparde.wixsite.com/mysite)  
 _Hint: the password is located in the Methods section of your invitation_
 
 <h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Looking for the Registry? </h1>
