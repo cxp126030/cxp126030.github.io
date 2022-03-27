@@ -7,18 +7,18 @@
 ---
 ---
 
+<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Estás a punto de ingresar al sitio de la boda de Connor y Gérie! </h1>
+Tenga lista la contraseña de su invitación y haga clic en el siguiente enlace:
 <h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> You are about to enter Connor and Gérie's wedding site! </h1>
 Have the password from your invitation ready, and click the following link:
 
-[Wedding website](https://connorparde.wixsite.com/mysite)  
-_Hint: the password is located in the Methods section of your invitation_
+[Wedding website](https://connorparde.wixsite.com/mysite) 
+_La contraseña se encuentra en el reverso de su invitación_
+_The password can be found on the back of your invitation_
 
-<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Looking for the Registry? </h1>
-Click the link below:
-
-[Honeymoon fund](https://www.honeyfund.com/wedding/ConnorAndGerie2020)
-
+<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Teniendo problemas? </h1>
 <h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Having trouble? </h1>
+Envíe un correo electrónico a connorparde@gmail.com o gjeckeln19@gmail.com con cualquier pregunta o inquietud.
 Email connorparde@gmail.com or gjeckeln19@gmail.com with any questions or concerns.
 
 ---
