@@ -17,9 +17,9 @@ _La contraseña se encuentra en el reverso de su invitación_
 
 _The password can be found on the back of your invitation_
 
-<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Teniendo problemas? </h1>
-<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Having trouble? </h1>
+<h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Teniendo problemas?/Having trouble? </h1>
 Envíe un correo electrónico a connorparde@gmail.com o gjeckeln19@gmail.com con cualquier pregunta o inquietud.
+
 Email connorparde@gmail.com or jeckelng@gmail.com with any questions or concerns.
 
 ---
