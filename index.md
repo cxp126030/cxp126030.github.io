@@ -8,10 +8,10 @@
 ---
 
 <h1 style="font-size:130%;color:BLACK;text-align:left; font-family:Helvetica Neue;"> Estás a punto de ingresar al sitio de la boda de Connor y Gérie!/You are about to enter Connor and Gérie's wedding site! </h1>
-Tenga lista la contraseña de su invitación y haga clic en el siguiente enlace:
-Have the password from your invitation ready, and click the following link:
+Tenga lista la contraseña de su invitación y haga clic en el siguiente enlace: [Wedding website](https://connorparde.wixsite.com/mysite)
 
-[Wedding website](https://connorparde.wixsite.com/mysite)
+Have the password from your invitation ready, and click the following link: [Wedding website](https://connorparde.wixsite.com/mysite)
+
 
 _La contraseña se encuentra en el reverso de su invitación_
 
